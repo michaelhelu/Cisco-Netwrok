@@ -39,9 +39,8 @@ This is a Cisco Packet Tracer (.pkt) simulation project designed to practice and
    - SSH remote login using the command line (e.g., `ssh -l admin 192.168.x.x`)
    - Internet reachability via WAN (e.g., ping 8.8.8.8 from inside)
 
-## 📷 (Optional) Screenshots
-
-You can add network topology images or terminal output screenshots here.
+## 📷 Screenshot
+(https://github.com/user-attachments/assets/89e69555-8f0e-4dee-8b72-62bef8ffb992)
 
 ---
 
