@@ -36,7 +36,7 @@ This is a Cisco Packet Tracer (.pkt) simulation project designed to practice and
 3. Test:
    - VLAN isolation and inter-VLAN routing
    - SYSLOG server logging events
-   - SSH remote login using the command line (e.g., `ssh -l admin 192.168.x.x`)
+   - SSH remote login using the command line (e.g., `ssh -l user-SWA 192.168.x.x`)
    - Internet reachability via WAN (e.g., ping 8.8.8.8 from inside)
 
 ## 📷 Screenshot
